@@ -1,7 +1,7 @@
 # simplilearn-phpinfo
 
 ```
-GITHUB_USERNAME=academiaonline
+GITHUB_USERNAME=mathewajit82
 GITHUB_PROJECT=simplilearn-phpinfo
 GITHUB_BRANCH=2021-08
 GITHUB_RELEASE=single-line
